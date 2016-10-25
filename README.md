@@ -61,5 +61,4 @@ but currently have no plans to turn this into a full-featured AR web solution at
 ## Other Things
 
 * [JS ARToolkit](https://github.com/artoolkit/jsartoolkit5)
-* [Awe.js](https://github.com/buildar/awe.js)(abandoned)
-
+* [Awe.js](https://github.com/buildar/awe.js)(deprecated)
